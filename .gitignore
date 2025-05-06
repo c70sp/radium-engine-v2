@@ -3,5 +3,6 @@
 /build/.cmake/
 /build/Makefile
 /build/CMakeCache.txt
+/build/cmake_install.cmake
 CTestTestfile.cmake
 compile_commands.json
