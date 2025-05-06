@@ -7,6 +7,9 @@ The engine is very new, so a lot of features, like a 3D model loader, are still 
 
 **As always, this is not a properly published project, so if you want to run it on your machine, you'll likely need to edit quite a few lines of code.**
 
-<p align="center">
-  <img src="img/mandelbrot.png" width=50%>
-</p>
+
+<kbd>
+  <p align="center">
+    <img src="img/mandelbrot.png" width=90%>
+  </p>
+</kbd>
